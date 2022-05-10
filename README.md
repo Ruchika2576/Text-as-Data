@@ -1,4 +1,6 @@
 # Text-as-Data
+
+Natural Language Processing coursework - Grade B1 
  
 
 Implemented and reported the findings on Subreddit Post Sentiment Classification on Reddit data by 
